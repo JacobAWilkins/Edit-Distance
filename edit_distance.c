@@ -1,3 +1,22 @@
+/*H****************************************************************
+* FILENAME :        edit_distance.c
+*
+* DESCRIPTION :
+*       Calculates the edit distance between two strings 
+*
+* PUBLIC FUNCTIONS :
+*       int     editDistance( char, char, int, int )
+*
+* NOTES :
+*       This function computes the edit distance
+*       by using a distance matrix.
+*
+*       Copyright 2017, Jacob Wilkins.  All rights reserved.
+* 
+* AUTHOR :    Jacob Wilkins        START DATE :    31 Oct 17
+*
+*H*/
+
 #include <stdio.h>
 #include <string.h>
 
